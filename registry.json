@@ -1,0 +1,14 @@
+{
+  "croqui-prototipo": {
+    "deployUrl": "https://croqui-prototipo.vercel.app/",
+    "deployNote": "Login: dataprom\nSenha:  croqui-dataprom-2026"
+  },
+  "programador-prototipo": {
+    "deployUrl": "",
+    "deployNote": ""
+  },
+  "radar-editais": {
+    "deployUrl": "",
+    "deployNote": ""
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "radar-editais",
+    "title": "Radar de Editais",
+    "path": "C:\\Users\\guery.braga\\Documents\\Editais Licitacao\\Editais Licitacao\\site",
+    "port": 3010,
+    "kind": "npm",
+    "startArgs": ["run", "dev", "--", "-p", "3010"]
+  }
+]
