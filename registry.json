@@ -10,5 +10,9 @@
   "radar-editais": {
     "deployUrl": "",
     "deployNote": ""
+  },
+  "cockpit-prototipo": {
+    "deployUrl": "https://cockpit-prototipo.vercel.app/",
+    "deployNote": "USUARIO_PADRAO = dataprom\nSENHA_PADRAO =  dat@taprom-2016"
   }
 }
